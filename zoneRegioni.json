@@ -1,0 +1,28 @@
+{
+	"rosso": [],
+	"arancione": ["Calabria",
+		"Veneto",
+		"Sicilia",
+		"Emilia-Romagna",
+		"Lombardia"
+	],
+	"giallo": [
+		"Liguria",
+		"Molise",
+		"P.A. Trento",
+		"Sardegna",
+		"Lazio",
+		"Campania",
+		"Toscana",
+		"Abruzzo",
+		"P.A. Bolzano",
+		"Valle d'Aosta",
+		"Umbria",
+		"Piemonte",
+		"Friuli Venezia Giulia",
+		"Marche",
+		"Basilicata",
+		"Puglia"
+	],
+	"commenti": ""
+}
