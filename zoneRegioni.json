@@ -1,6 +1,6 @@
 {
 	"rosso": ["Sicilia",
-		 "P.A. Bolzano",],
+		 "P.A. Bolzano"],
 	"arancione": [
 		"Abruzzo",
 		"Calabria",
@@ -15,7 +15,7 @@
 		"Umbria",
 		"Sardegna",
 		"Lombardia",
-		"Valle d'Aosta",
+		"Valle d'Aosta"
 	],
 	"giallo": [
 		"Molise",
