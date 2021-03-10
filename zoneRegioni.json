@@ -1,30 +1,29 @@
 {
-	"rosso": ["Sicilia"
+	"rosso": ["Basilicata",
+		  "Campania",
+		  "Molise"
 	],
 	"arancione": [
-		"Puglia",
-		"Sicilia",
-		"Umbria",
-		"P.A. Bolzano"
-	],
-	"giallo": [
 		"Abruzzo",
-		"Basilicata",
-		"Calabria",
-		"Campania",
 		"Emilia-Romagna",
 		"Friuli Venezia Giulia",
-		"Lazio",
-		"Liguria",
 		"Lombardia",
 		"Marche",
-		"Molise",
+		"P.A. Bolzano",
+		"P.A. Trento",
 		"Piemonte",
-		"Sardegna",
 		"Toscana",
-		"Valle d'Aosta",
+		"Umbria",
 		"Veneto",
-		"P.A. Trento"
+	],
+	"giallo": [
+		"Calabria",
+		"Lazio",
+		"Liguria",
+		"Puglia",
+		"Sicilia",
+		"Valle d'Aosta",
+		"Sardegna"
 	],
 	"commenti": ""
 }
